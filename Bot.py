@@ -41,4 +41,4 @@ async def pollo(ctx):
 
 
 
-bot.run("MTE2Nzg4NzAxMzMyODk5ODU2MA.Gp7hPb.Ax6OqlN5dRfFtzzmLrGL5MJDkMS3Jge40mO46w")
+bot.run("")
